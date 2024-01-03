@@ -1,0 +1,12 @@
+Newman 3 6
+Moore 8 4
+Tressel 7 1
+Blinn 6 3
+Reutener 4 4
+Ridenour 5 6
+Kintner 8 4
+Warner 8 9
+Williams 9 4
+Watts 5 6
+Collins 11 6
+Furst 7 5
